@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kapil444
+- 👋 Hi, I’m Kapil Choudhary
 - 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to change my stack into MERN Stack
